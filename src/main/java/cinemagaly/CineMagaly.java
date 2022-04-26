@@ -1,6 +1,6 @@
 /* 
 * @author Isaac Jimenez Escalante
-* @author Fabian Jesus Araya 
+* @author Andrés Josue Picado Monge 
 * @author Nicole Hernandez Muñoz 
 */ 
 package cinemagaly; 
